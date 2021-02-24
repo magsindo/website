@@ -177,7 +177,7 @@
                 <div class="col-xl-5 col-lg-6 col-md-8 col-sm-9">
                     <div class="section-title text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
                         <h6 class="sub-title">Our services</h6>
-                        <h4 class="title">Bunch of Services <span>to Rock Your Business</span></h4>
+                        <h4 class="title">Layanan Magsindo <span>hanya untuk anda!</span></h4>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
