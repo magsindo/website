@@ -187,20 +187,20 @@
                         <ul class="nav justify-content-center wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" id="myTab" role="tablist">
                             <li class="nav-item">
                                 <a class="active" id="business-tab" data-toggle="tab" href="#business" role="tab" aria-controls="business" aria-selected="true">
-                                    <i class="lni-briefcase"></i> <span>Business <br> Consultancy</span>
+                                    <i class="lni-display-alt"></i> <span>Software <br> Development</span>
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a id="digital-tab" data-toggle="tab" href="#digital" role="tab" aria-controls="digital" aria-selected="false">
-                                    <i class="lni-bullhorn"></i> <span>Digital <br> Marketing</span>
+                                    <i class="lni-video"></i> <span>Multimedia <br></span>
                                 </a>
                             </li>
 
-                            <li class="nav-item">
+                            {{-- <li class="nav-item">
                                 <a id="market-tab" data-toggle="tab" href="#market" role="tab" aria-controls="market" aria-selected="false">
                                     <i class="lni-stats-up"></i> <span>Market <br> Analysis</span>
                                 </a>
-                            </li>
+                            </li> --}}
                         </ul>
                         <div class="tab-content" id="myTabContent">
                             <div class="tab-pane fade show active" id="business" role="tabpanel" aria-labelledby="business-tab">
@@ -249,7 +249,7 @@
                                 </div> <!-- row -->
                             </div>
                             
-                            <div class="tab-pane fade" id="market" role="tabpanel" aria-labelledby="market-tab">
+                            {{-- <div class="tab-pane fade" id="market" role="tabpanel" aria-labelledby="market-tab">
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="our-services-image mt-50">
@@ -271,7 +271,7 @@
                                     </div>
                                 </div> <!-- row -->
                             </div>
-                        </div> <!-- tab content -->
+                        </div> <!-- tab content --> --}}
                     </div> <!-- our services tab -->
                 </div>
             </div> <!-- row -->
