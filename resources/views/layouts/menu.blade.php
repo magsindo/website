@@ -105,7 +105,7 @@
                 <div class="col-lg-9">
                     <div class="about-title text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
                         <h6 class="welcome">WELCOME</h6>
-                        <h3 class="title"><span>Our 10 years working experience to </span> take care of your business goal.</h3>
+                        <h3 class="title"><span>Ceritakan impian anda kepada kami </span> kami akan bantu wujudkan. Your limitation - is only your imagination! </h3>
                     </div>
                 </div>
             </div> <!-- row -->
