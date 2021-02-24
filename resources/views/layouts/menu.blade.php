@@ -212,13 +212,13 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="our-services-content mt-45">
-                                            <h3 class="services-title">Business Consultancy <span>for Your Business Growth.</span></h3>
-                                            <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec est arcu. Maecenas semper tortor.  <br>  <br> In elementum in risus sed commodo. Phasellus nisi ligula, luctus at tempor vitae, placerat at ante. Cras sed consequat justo. Curabitur laoreet eu est vel convallis. </p>
+                                            <h3 class="services-title">Pengembangan Aplikasi<span> untuk perkembangan bisnis anda.</span></h3>
+                                            <p class="text">Pembuatan aplikasi (berbasis web dan mobile (android/iOS))  merupakan salah satu produk utama kami<br>  <br> Dibuat oleh para ahli dengan berbagai pengalaman yang siap untuk mewujudkan impian anda </p>
                                             
                                             <div class="our-services-progress d-flex align-items-center mt-55">
                                                 <div class="circle" id="circles-1"></div>
                                                 <div class="progress-content">
-                                                    <h4 class="progress-title">Consultancy<br> Agency Skill.</h4>
+                                                    <h4 class="progress-title">Software<br> Developer Skill.</h4>
                                                 </div>
                                             </div>
                                         </div> <!-- our services content -->
