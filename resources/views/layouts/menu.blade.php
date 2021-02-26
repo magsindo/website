@@ -2,8 +2,8 @@
     <!--[if IE]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
-   
-   
+
+
     <!--====== PRELOADER PART START ======-->
 
     <div class="preloader">
@@ -24,9 +24,9 @@
     </div>
 
     <!--====== PRELOADER PART ENDS ======-->
-    
+
     <!--====== HEADER PART START ======-->
-    
+
     <header class="header-area">
         <div class="navbar-area headroom">
             <div class="container">
@@ -57,14 +57,14 @@
                                         <a href="#portfolio">Project</a>
                                     </li> --}}
                                     <li class="nav-item">
-                                        <a href="#blog">Team</a>
+                                        <a href="#team">Team</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#contact">Contact</a>
                                     </li>
                                 </ul>
                             </div> <!-- navbar collapse -->
-                            
+
                             <div class="navbar-btn d-none d-sm-inline-block">
                                 <a class="main-btn" data-scroll-nav="0" href="#pricing">SIGN IN</a>
                             </div>
@@ -73,8 +73,8 @@
                 </div> <!-- row -->
             </div> <!-- container -->
         </div> <!-- navbar area -->
-        
-        <div id="home" class="header-hero bg_cover d-lg-flex align-items-center" style="background-image: url({{asset('assets/images/header-hero.jpg')}}')}}">
+
+        <div id="home" class="header-hero bg_cover d-lg-flex align-items-center" style="background-image: url({{asset('assets/images/header-hero.jpg')}})}}">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7">
@@ -94,33 +94,38 @@
             </div> <!-- header hero image -->
         </div> <!-- header hero -->
     </header>
-    
+
     <!--====== HEADER PART ENDS ======-->
-    
+
     <!--====== ABOUT PART START ======-->
-    
+
     <section id="about" class="about-area pt-115">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-9">
-                    <div class="about-title text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                        <h6 class="welcome">WELCOME</h6>
-                        <h3 class="title"><span>Ceritakan impian anda kepada kami </span> kami akan bantu wujudkan. Your limitation - is only your imagination! </h3>
-                    </div>
-                </div>
-            </div> <!-- row -->
+{{--            <div class="row justify-content-center">--}}
+{{--                <div class="col-lg-9">--}}
+{{--                    <div class="about-title text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">--}}
+{{--                        <h6 class="welcome">WELCOME</h6>--}}
+{{--                        <h3 class="title"><span>Ceritakan impian anda kepada kami </span> kami akan bantu wujudkan. Your limitation - is only your imagination! </h3>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div> <!-- row -->--}}
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="about-image mt-60 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-                        <img src="{{asset('assets/images/about.png')}}" alt="about">
+                    <div class="about-image mt-60 wow fadeIn" style="margin-top: 1px" data-wow-duration="1s" data-wow-delay="0.5s">
+                        <img src="{{asset('assets/images/perusahaan/Logo Bawah.png')}}" alt="about">
                     </div> <!-- about image -->
                 </div>
             </div> <!-- row -->
             <div class="row justify-content-center">
                 <div class="col-lg-10">
                     <div class="about-content pt-45">
-                        <p class="text wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">Duis et metus et massa tempus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultricies, orci molestie blandit interdum. ipsum ante pellentesque nisl, eget mollis turpis quam nec eros. ultricies, orci molestie blandit interdum.</p>
-                        
+                        <p class="text wow fadeInUp" style="color: black" data-wow-duration="1s" data-wow-delay="0.4s">
+                            PT. Magsindo Kreasi Multimedia adalah perusahaan yang memusatkan diri dalam pengembangan teknologi informasi khusus pemanfaatan trend IT dan Multimedia sebagai salah satu solusi yang efektif dan efisien bagi perusahaan. Mulai beroperasi sekitar tahun 2019  secara resmi menjadi badan usaha Perseroan Terbatas (PT) yang mandiri dan professional. Kekuatan yang terus kami pertahankan adalah keunggulan teknis untuk mencapai produk terbaik yang diberikan kepada para pelanggan.
+                        </p>
+                        <p class="text wow fadeInUp" style="color: black" data-wow-duration="1s" data-wow-delay="0.4s">
+                            Komitmen kami untuk selalu melahirkan inovasi-inovasi baru dalam memberi nilai tambah di bidang pengelolaan teknologi informasi dan layanan multimedia lainnya melalui tahapan-tahapan yang berawal dari konsultasi, perencanaan, pengembangan, management proyek, operasional, serta berbagai layanan purna jual.
+                        </p>
+
                         <div class="about-counter pt-60">
                             <div class="row">
                                 <div class="col-sm-4">
@@ -166,11 +171,11 @@
             </div> <!-- row -->
         </div> <!-- container -->
     </section>
-    
+
     <!--====== ABOUT PART ENDS ======-->
-    
+
     <!--====== OUR SERVICE PART START ======-->
-    
+
     <section id="services" class="our-services-area pt-115">
         <div class="container">
             <div class="row justify-content-center">
@@ -214,7 +219,7 @@
                                         <div class="our-services-content mt-45">
                                             <h3 class="services-title">Pengembangan Aplikasi<span> untuk perkembangan bisnis anda.</span></h3>
                                             <p class="text">Pembuatan aplikasi (berbasis web dan mobile (android/iOS))  merupakan salah satu produk utama kami<br>  <br> Dibuat oleh para ahli dengan berbagai pengalaman yang siap untuk mewujudkan impian anda </p>
-                                            
+
                                             <div class="our-services-progress d-flex align-items-center mt-55">
                                                 <div class="circle" id="circles-1"></div>
                                                 <div class="progress-content">
@@ -225,7 +230,7 @@
                                     </div>
                                 </div> <!-- row -->
                             </div>
-                            
+
                             <div class="tab-pane fade" id="digital" role="tabpanel" aria-labelledby="digital-tab">
                                 <div class="row">
                                     <div class="col-lg-6">
@@ -237,7 +242,7 @@
                                         <div class="our-services-content mt-45">
                                             <h3 class="services-title">Digital Marketing  <span>for Your Business Growth.</span></h3>
                                             <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec est arcu. Maecenas semper tortor.  <br>  <br> In elementum in risus sed commodo. Phasellus nisi ligula, luctus at tempor vitae, placerat at ante. Cras sed consequat justo. Curabitur laoreet eu est vel convallis. </p>
-                                            
+
                                             <div class="our-services-progress d-flex align-items-center mt-55">
                                                 <div class="circle" id="circles-2"></div>
                                                 <div class="progress-content">
@@ -248,7 +253,7 @@
                                     </div>
                                 </div> <!-- row -->
                             </div>
-                            
+
                             {{-- <div class="tab-pane fade" id="market" role="tabpanel" aria-labelledby="market-tab">
                                 <div class="row">
                                     <div class="col-lg-6">
@@ -260,7 +265,7 @@
                                         <div class="our-services-content mt-45">
                                             <h3 class="services-title">Market Analysis  <span>for Your Business Growth.</span></h3>
                                             <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec est arcu. Maecenas semper tortor.  <br>  <br> In elementum in risus sed commodo. Phasellus nisi ligula, luctus at tempor vitae, placerat at ante. Cras sed consequat justo. Curabitur laoreet eu est vel convallis. </p>
-                                            
+
                                             <div class="our-services-progress d-flex align-items-center mt-55">
                                                 <div class="circle" id="circles-3"></div>
                                                 <div class="progress-content">
@@ -276,12 +281,13 @@
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
+        </div>
     </section>
-    
+
     <!--====== OUR SERVICE PART ENDS ======-->
-    
+
     <!--====== SERVICE PART START ======-->
-    
+
     <section id="service" class="service-area pt-105">
         <div class="container">
             <div class="row">
@@ -353,9 +359,9 @@
             </div> <!-- service wrapper -->
         </div> <!-- container -->
     </section>
-    
+
     <!--====== SERVICE PART ENDS ======-->
-    
+
     <!--====== PROJECT GALLERY PART START ======-->
 
     <section id="portfolio" class="project-masonry-area pt-115">
@@ -465,9 +471,9 @@
     </section>
 
     <!--====== PROJECT GALLERY PART ENDS ======-->
-    
+
     <!--====== PRICING PART START ======-->
-    
+
     <section data-scroll-index="0" id="pricing" class="pricing-area pt-115">
         <div class="container">
             <div class="row justify-content-center">
@@ -548,11 +554,11 @@
             </div> <!-- row -->
         </div> <!-- container -->
     </section>
-    
+
     <!--====== PRICING PART ENDS ======-->
-    
+
     <!--====== TESTIMONIAL PART START ======-->
-    
+
     <section id="testimonial" class="testimonial-area pt-70 pb-120">
         <div class="container">
             <div class="row justify-content-between">
@@ -661,11 +667,11 @@
             </div> <!-- row -->
         </div> <!-- container -->
     </section>
-    
+
     <!--====== TESTIMONIAL PART ENDS ======-->
-    
+
     <!--====== BRAND PART START ======-->
-    
+
     <div id="brand" class="brand-area">
         <div class="container">
             <div class="row">
@@ -691,9 +697,163 @@
             </div> <!-- row -->
         </div> <!-- container -->
     </div>
-    
+
     <!--====== BRAND PART ENDS ======-->
-    
+
+    <!--==========================
+      Team Section
+    ============================-->
+    <section id="team" class="blog-area pt-115">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-4">
+                    <div class="section-title text-center pb-20 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+                        <h6 class="sub-title">Our Team</h6>
+                        <h4 class="title">Letest <span>News.</span></h4>
+                    </div> <!-- section title -->
+                </div>
+            </div> <!-- row -->
+
+            {{--    Baris Pertama Team  --}}
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 wow fadeInUp">
+                    <div class="member">
+                        <img src="{{asset('assets/images/team/magrina.jpg')}}" class="rounded-circle " alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>Magrina Rahayu</h4>
+                                <span>CEO Magsindo Kreasi Multimedia</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-google-plus"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row justify-content-center">
+
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="member">
+                        <img src="{{asset('assets/images/team/heris.png')}}" class="rounded-circle " alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>Heris Rizal</h4>
+                                <span>Company Manager</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-google-plus"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="member">
+                        <img src="{{asset('assets/images/team/rizky.jpg')}}" class="rounded-circle " alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>Rizky Yananda</h4>
+                                <span>Chief Technology Officer</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-google-plus"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="member">
+                        <img src="{{asset('assets/images/team/harish.jpg')}}" class="rounded-circle " alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>Harish Ridha Prasaja</h4>
+                                <span>System AnalysT</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-google-plus"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            {{--    Baris Kedua Team    --}}
+            <div class="row justify-content-center">
+
+                <div class="col-lg-3 col-md-6 wow fadeInUp">
+                    <div class="member">
+                        <img src="{{asset('assets/images/team/rizal.jpeg')}}" class="rounded-circle " alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>M. Rizal Rizwan</h4>
+                                <span>Head Developer</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-google-plus"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="member">
+                        <img src="{{asset('assets/images/team/filzha.jpg')}}" class="rounded-circle " alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>Filzha Hidayat</h4>
+                                <span>Graphic Designer</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-google-plus"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="member">
+                        <img src="{{asset('assets/images/team/fadllil.png')}}" class="rounded-circle " alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>Fadllil Azhiimi</h4>
+                                <span>Developer</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-google-plus"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section><!-- #team -->
+
     <!--====== BLOG PART START ======-->
 
     <section id="blog" class="blog-area pt-115">
@@ -716,7 +876,7 @@
                             <h4 class="blog-title"><a href="blog-details.html">Nulla eget urna at tortor  turpi feugiat tristique in sit.</a></h4>
                             <div class="blog-author d-flex align-items-center">
                                 <div class="author-image">
-                                    <img src="{{asset('assets/images/author-1.jpg')}}" alt="author">
+                                    <img src="{{asset('assets/images/team/magrina.jpeg')}}" alt="author">
                                 </div>
                                 <div class="author-content media-body">
                                     <h6 class="sub-title">Posted by</h6>
@@ -769,7 +929,7 @@
     </section>
 
     <!--====== BLOG PART ENDS ======-->
-    
+
     <!--====== CONTACT PART START ======-->
 
     <section id="contact" class="contact-area pt-120 pb-120">
@@ -822,7 +982,7 @@
                 <div class="col-lg-12">
                     <div class="contact-wrapper-form pt-115  wow fadeInUpBig" data-wow-duration="1s" data-wow-delay="0.5s">
                         <h4 class="contact-title pb-10"><i class="lni-envelope"></i> Leave <span>A Message.</span></h4>
-                        
+
                         <form id="contact-form" action="{{asset('assets/contact.php')}}" method="post">
                             <div class="row">
                                 <div class="col-md-6">
@@ -860,7 +1020,7 @@
                         <h4 class="contact-title pb-10">
                             <i class="fas fa-map-marker-check"></i>Our <span>Location</span></h4>
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d846.4991144738264!2d101.36674433733853!3d0.47636195334243303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d5a9ec78adfd0b%3A0x2f9b4bd074b43b0b!2sTeras%20Rumah%20Production%20House!5e0!3m2!1sid!2sid!4v1613802550359!5m2!1sid!2sid"
-                         width="100%" height="450" style="border:1;" allowfullscreen="" loading="eager"></iframe>
+                         width="100%" height="450" style="border:1px;" allowfullscreen="" loading="eager"></iframe>
                     </div> <!-- contact wrapper form -->
                 </div>
             </div> <!-- row -->
@@ -868,9 +1028,9 @@
     </section>
 
     <!--====== CONTACT PART ENDS ======-->
-    
+
     <!--====== FOOTER PART START ======-->
-    
+
     <footer id="footer" class="footer-area bg_cover" style="background-image: url({{asset('assets/images/footer-bg.jpg')}})">
         <div class="container">
             <div class="footer-widget pt-30 pb-70">
@@ -936,12 +1096,12 @@
             </div>
         </div> <!-- container -->
     </footer>
-    
+
     <!--====== FOOTER PART ENDS ======-->
-    
+
     <!--====== BACK TOP TOP PART START ======-->
 
     <a href="#" class="back-to-top"><i class="lni-chevron-up"></i></a>
 
-    <!--====== BACK TOP TOP PART ENDS ======-->  
+    <!--====== BACK TOP TOP PART ENDS ======-->
 
