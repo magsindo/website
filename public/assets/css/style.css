@@ -1811,13 +1811,18 @@ p {
 .single-contact-info .contact-info-content {
   padding-left: 20px; }
   .single-contact-info .contact-info-content .text {
-    color: #222; }
+    color: #222;
+    text-align: center; 
+  
+  }
 .single-contact-info.contact-color-1 .contact-info-icon i {
   background-color: #222; }
 .single-contact-info.contact-color-2 .contact-info-icon i {
   background-color: #f23559; }
 .single-contact-info.contact-color-3 .contact-info-icon i {
   background-color: #4bb3f9; }
+.single-contact-info.contact-color-4 .contact-info-icon i {
+    background-color: #02ad35; }
 
 .contact-wrapper-form .contact-title {
   font-size: 32px;
@@ -2287,3 +2292,15 @@ p {
       float: right; }
 
 /*# sourceMappingURL=style.css.map */
+
+/* css partnership */
+.circular-image {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 20%;
+}
+.kontak{
+  text-align: center;
+}
+
