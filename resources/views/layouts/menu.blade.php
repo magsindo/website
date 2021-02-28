@@ -112,32 +112,24 @@
 
     <section id="about" class="about-area pt-115">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
+            <div class="row justify-content-center">
+                <div class="col-lg-5">
                     <div class="about-image mt-60 wow fadeIn" style="margin-top: 1px" data-wow-duration="1s"
                         data-wow-delay="0.5s">
                         <img src="{{asset('assets/images/perusahaan/Logo Bawah.png')}}" alt="about">
                     </div> <!-- about image -->
                 </div>
+                <div class="col-lg-5">
+                    <p class="text wow fadeInUp" style="color: black" data-wow-duration="1s" data-wow-delay="0.4s">
+                        PT. Magsindo Kreasi Multimedia adalah perusahaan yang memusatkan diri dalam pengembangan
+                        teknologi informasi khusus pemanfaatan trend IT dan Multimedia sebagai salah satu solusi
+                        yang efektif dan efisien bagi perusahaan.
+                    </p>
+                </div>
             </div> <!-- row -->
             <div class="row justify-content-center">
                 <div class="col-lg-10">
                     <div class="about-content pt-45">
-                        <p class="text wow fadeInUp" style="color: black" data-wow-duration="1s" data-wow-delay="0.4s">
-                            PT. Magsindo Kreasi Multimedia adalah perusahaan yang memusatkan diri dalam pengembangan
-                            teknologi informasi khusus pemanfaatan trend IT dan Multimedia sebagai salah satu solusi
-                            yang efektif dan efisien bagi perusahaan. Mulai beroperasi sekitar tahun 2019 secara resmi
-                            menjadi badan usaha Perseroan Terbatas (PT) yang mandiri dan professional. Kekuatan yang
-                            terus kami pertahankan adalah keunggulan teknis untuk mencapai produk terbaik yang diberikan
-                            kepada para pelanggan.
-                        </p>
-                        <p class="text wow fadeInUp" style="color: black" data-wow-duration="1s" data-wow-delay="0.4s">
-                            Komitmen kami untuk selalu melahirkan inovasi-inovasi baru dalam memberi nilai tambah di
-                            bidang pengelolaan teknologi informasi dan layanan multimedia lainnya melalui
-                            tahapan-tahapan yang berawal dari konsultasi, perencanaan, pengembangan, management proyek,
-                            operasional, serta berbagai layanan purna jual.
-                        </p>
-
                         <div class="about-counter pt-60">
                             <div class="row">
                                 <div class="col-sm-4">
@@ -225,7 +217,7 @@
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="our-services-image mt-50">
-                                            <iframe width="560" height="315" src="https://www.youtube.com/embed/fiuhu924--M" 
+                                            <iframe width="560" height="315" src="https://www.youtube.com/embed/fiuhu924--M"
                                             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
                                              gyroscope; picture-in-picture" allowfullscreen>
                                             </iframe>
