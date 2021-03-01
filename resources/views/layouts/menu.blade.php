@@ -217,7 +217,7 @@
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="our-services-image mt-50">
-                                            <iframe width="560" height="315" src="https://www.youtube.com/embed/fiuhu924--M"
+                                            <iframe width="560" height="315" src="https://www.youtube.com/embed/fiuhu924--M" 
                                             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
                                              gyroscope; picture-in-picture" allowfullscreen>
                                             </iframe>
@@ -495,7 +495,7 @@
                                 <a href="https://www.google.com/maps/dir//0.4762841,101.3673225/@0.476284,101.367323,18z?hl=id" target="_blank"><i class="lni-map-marker"></i></a>
                             </div>
                             <div class="contact-info-content media-body">
-                                <p class="text kontak">Jl. Garuda Sakti Km.2 </p>
+                                <p>Jl. Garuda Sakti Km.2 </p>
                             </div>
                         </div> <!-- single contact info -->
                     </div>
