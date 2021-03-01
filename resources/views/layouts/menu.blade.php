@@ -86,7 +86,7 @@
                     <div class="col-lg-7">
                         <div class="header-hero-content">
                             <h1 class="hero-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s"><b>Your</b>
-                                <span>Consultancy</span> Partner for <b>Growth.</b></h1>
+                                <span>Consultancy</span> Partner for <b style="color: #e9b221">Growth.</b></h1>
                             <p class="text wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">Phasellus vel elit
                                 efficitur, gravida libero sit amet, scelerisque tortor arcu, commodo sit amet nulla sed.
                             </p>
@@ -113,14 +113,22 @@
     <section id="about" class="about-area pt-115">
         <div class="container">
             <div class="row justify-content-center">
+                <div class="col-xl-5 col-lg-6 col-md-8 col-sm-9">
+                    <div class="section-title text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+                        <h6 class="sub-title">About Us</h6>
+                        <h4 class="title">Magsindo <span>hanya untuk anda!</span></h4>
+                    </div> <!-- section title -->
+                </div>
+            </div> <!-- row -->
+            <div class="row justify-content-center">
                 <div class="col-lg-5">
-                    <div class="about-image mt-60 wow fadeIn" style="margin-top: 1px" data-wow-duration="1s"
+                    <div class="about-image mt-60 wow fadeIn" data-wow-duration="1s"
                         data-wow-delay="0.5s">
                         <img src="{{asset('assets/images/perusahaan/Logo Bawah.png')}}" alt="about">
                     </div> <!-- about image -->
                 </div>
                 <div class="col-lg-5">
-                    <p class="text wow fadeInUp" style="color: black" data-wow-duration="1s" data-wow-delay="0.4s">
+                    <p class="text wow fadeInUp" style="color: black; margin-top: 50px" data-wow-duration="1s" data-wow-delay="0.4s">
                         PT. Magsindo Kreasi Multimedia adalah perusahaan yang memusatkan diri dalam pengembangan
                         teknologi informasi khusus pemanfaatan trend IT dan Multimedia sebagai salah satu solusi
                         yang efektif dan efisien bagi perusahaan.
@@ -217,7 +225,7 @@
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="our-services-image mt-50">
-                                            <iframe width="560" height="315" src="https://www.youtube.com/embed/fiuhu924--M" 
+                                            <iframe width="560" height="315" src="https://www.youtube.com/embed/fiuhu924--M"
                                             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
                                              gyroscope; picture-in-picture" allowfullscreen>
                                             </iframe>
