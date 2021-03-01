@@ -334,7 +334,7 @@
 
             {{--    Baris Pertama Team  --}}
             <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6 wow fadeInUp">
+                <div class="col-lg-3 col-md-4 wow fadeInUp">
                     <div class="member">
                         <img src="{{asset('assets/images/team/magrina.jpg')}}" class="rounded-circle " alt="">
                         <div class="member-info">
