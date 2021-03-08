@@ -288,349 +288,369 @@
 
     <div id="brand" class="brand-area pt-115">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-xl-5 col-lg-6 col-md-8 col-sm-9">
-                    <div class="section-title text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
-                        <h6 class="sub-title">Our Partnership</h6>
-                        <h4 class="title">Partnertship <span>Magsindo</span></h4>
-                    </div> <!-- section title -->
+                <div class="row justify-content-center">
+                    <div class="col-xl-5 col-lg-6 col-md-8 col-sm-9">
+                        <div class="section-title text-center wow fadeInUp" data-wow-duration="1s"
+                            data-wow-delay="0.2s">
+                            <h6 class="sub-title">Our Partnership</h6>
+                            <h4 class="title">Partnertship <span>Magsindo</span></h4>
+                        </div> <!-- section title -->
+                    </div>
                 </div>
             </div>
-            <div class="row pt-20 justify-content-center">
-                <div class="col-lg-2">
-                    <img src="{{asset('assets/images/partnership/DISHUBB.png')}}" class="circular-image" alt="">
+            <div class="row justify-content-center pt-20">
+                <div class="col-lg-2 col-md-12 wow fadeInUp">
+                    <div class="justify-content-center partnership">
+                        <img src="{{asset('assets/images/partnership/DISHUBB.png')}}" alt="">
+                    </div> <!-- single contact info -->
                 </div>
-                <div class="col-lg-2">
-                    <img src="{{asset('assets/images/partnership/BKSDAA.png')}}" class="circular-image" alt="">
+                <div class="col-lg-2 col-md-12 wow fadeInUp">
+                    <div class="justify-content-center partnership">
+                        <img src="{{asset('assets/images/partnership/BKSDAA.png')}}" alt="">
+                    </div> <!-- single contact info -->
                 </div>
-                <div class="col-lg-2">
-                    <img src="{{asset('assets/images/partnership/TESSOO.png')}}" class="circular-image" alt="">
+                <div class="col-lg-2 col-md-12 wow fadeInUp">
+                    <div class="justify-content-center partnership">
+                        <img src="{{asset('assets/images/partnership/TESSOO.png')}}" alt="">
+                    </div> <!-- single contact info -->
                 </div>
-                <div class="col-lg-2">
-                    <img src="{{asset('assets/images/partnership/SCALEUPP.png')}}" class="circular-image" alt="">
+                <div class="col-lg-2 col-md-12 wow fadeInUp">
+                    <div class="justify-content-center partnership">
+                        <img src="{{asset('assets/images/partnership/SCALEUPP.png')}}" alt="">
+                    </div> <!-- single contact info -->
                 </div>
-                <div class="col-lg-2">
-                    <img src="{{asset('assets/images/partnership/KOENERGIAA.png')}}" class="circular-image" alt="">
+                <div class="col-lg-2 col-md-12 wow fadeInUp">
+                    <div class="justify-content-center partnership">
+                        <img src="{{asset('assets/images/partnership/KOENERGIAA.png')}}" alt="">
+                    </div> <!-- single contact info -->
                 </div>
-                <div class="col-lg-2">
-                    <img src="{{asset('assets/images/partnership/KEMENKUMHAMM.png')}}" class="circular-image" alt="">
+                <div class="col-lg-2 col-md-12 wow fadeInUp">
+                    <div class="justify-content-center partnership">
+                        <img src="{{asset('assets/images/partnership/KEMENKUMHAMM.png')}}"
+                            alt="">
+                    </div> <!-- single contact info -->
                 </div>
-            </div>
+            </div> <!-- container -->
         </div>
-    </div> <!-- container -->
     </div>
 
-    <!--====== BRAND PART ENDS ======-->
+        <!--====== BRAND PART ENDS ======-->
 
-    <!--==========================
+        <!--==========================
       Team Section
     ============================-->
-    <section id="team" class="blog-area pt-115">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-4">
-                    <div class="section-title text-center pb-20 wow fadeInUp" data-wow-duration="1s"
-                        data-wow-delay="0.3s">
-                        <h6 class="sub-title">Our Team</h6>
-                        <h4 class="title">Letest <span>News.</span></h4>
-                    </div> <!-- section title -->
-                </div>
-            </div> <!-- row -->
-
-            {{--    Baris Pertama Team  --}}
-            <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6 wow fadeInUp">
-                    <div class="member">
-                        <img src="{{asset('assets/images/team/magrina.jpg')}}" class="rounded-circle " alt="">
-                        <div class="member-info">
-                            <div class="member-info-content">
-                                <h4>Magrina Rahayu</h4>
-                                <span>CEO Magsindo Kreasi Multimedia</span>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row justify-content-center">
-
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="member">
-                        <img src="{{asset('assets/images/team/heris.png')}}" class="rounded-circle " alt="">
-                        <div class="member-info">
-                            <div class="member-info-content">
-                                <h4>Heris Rizal</h4>
-                                <span>Company Manager</span>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="member">
-                        <img src="{{asset('assets/images/team/rizky.jpg')}}" class="rounded-circle " alt="">
-                        <div class="member-info">
-                            <div class="member-info-content">
-                                <h4>Rizky Yananda</h4>
-                                <span>Chief Technology Officer</span>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="member">
-                        <img src="{{asset('assets/images/team/harish.jpg')}}" class="rounded-circle " alt="">
-                        <div class="member-info">
-                            <div class="member-info-content">
-                                <h4>Harish Ridha Prasaja</h4>
-                                <span>System AnalysT</span>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            {{--    Baris Kedua Team    --}}
-            <div class="row justify-content-center">
-
-                <div class="col-lg-3 col-md-6 wow fadeInUp">
-                    <div class="member">
-                        <img src="{{asset('assets/images/team/rizal.jpeg')}}" class="rounded-circle " alt="">
-                        <div class="member-info">
-                            <div class="member-info-content">
-                                <h4>M. Rizal Rizwan</h4>
-                                <span>Head Developer</span>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="member">
-                        <img src="{{asset('assets/images/team/filzha.jpg')}}" class="rounded-circle " alt="">
-                        <div class="member-info">
-                            <div class="member-info-content">
-                                <h4>Filzha Hidayat</h4>
-                                <span>Graphic Designer</span>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="member">
-                        <img src="{{asset('assets/images/team/fadllil.png')}}" class="rounded-circle " alt="">
-                        <div class="member-info">
-                            <div class="member-info-content">
-                                <h4>Fadllil Azhiimi</h4>
-                                <span>Developer</span>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-    </section><!-- #team -->
-
-
-    <!--====== CONTACT PART START ======-->
-
-    <section id="contact" class="contact-area pt-120 pb-120">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-4">
-                    <div class="section-title text-center pb-20 wow fadeInUp" data-wow-duration="1s"
-                        data-wow-delay="0.3s">
-                        <h6 class="sub-title">Our Contact</h6>
-                        <h4 class="title">Get In <span>Touch.</span></h4>
-                    </div> <!-- section title -->
-                </div>
-            </div> <!-- row -->
-            <div class="contact-info pt-30">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single-contact-info contact-color-1 mt-30 d-flex  wow fadeInUp"
-                            data-wow-duration="1s" data-wow-delay="0.3s">
-                            <div class="contact-info-icon">
-                                <a href="https://www.google.com/maps/dir//0.4762841,101.3673225/@0.476284,101.367323,18z?hl=id" target="_blank"><i class="lni-map-marker"></i></a>
-                            </div>
-                            <div class="contact-info-content media-body">
-                                <p>Jl. Garuda Sakti Km.2 </p>
-                            </div>
-                        </div> <!-- single contact info -->
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single-contact-info contact-color-2 mt-30 d-flex  wow fadeInUp"
-                            data-wow-duration="1s" data-wow-delay="0.6s">
-                            <div class="contact-info-icon">
-                                <a href="mailto:magsindokreasimultimedia@gmail.com" target="_blank"><i class="lni-envelope"></i></a>
-                            </div>
-                            <div class="contact-info-content media-body">
-                                <p>Mail Me</p>
-                            </div>
-                        </div> <!-- single contact info -->
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single-contact-info contact-color-3 mt-30 d-flex  wow fadeInUp"
-                            data-wow-duration="1s" data-wow-delay="0.9s">
-                            <div class="contact-info-icon">
-                                <a href="tel:+62 853-6309-2565" target="_blank"><i class="lni-phone"></i></a>
-                            </div>
-                            <div class="contact-info-content media-body">
-                                <p>Call Me</p>
-                            </div>
-                        </div> <!-- single contact info -->
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single-contact-info contact-color-4 mt-30 d-flex  wow fadeInUp"
-                            data-wow-duration="1s" data-wow-delay="0.9s">
-                            <div class="contact-info-icon">
-                                <a href="https://api.whatsapp.com/send?phone=6285363092565&text= Hallo PT. Magsindo" target="_blank"><i class="lni-whatsapp"></i></a>
-                            </div>
-                            <div class="contact-info-content media-body">
-                                <p>Whatsapp Me</p>
-                            </div>
-                        </div> <!-- single contact info -->
+        <section id="team" class="blog-area pt-115">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-4">
+                        <div class="section-title text-center pb-20 wow fadeInUp" data-wow-duration="1s"
+                            data-wow-delay="0.3s">
+                            <h6 class="sub-title">Our Team</h6>
+                            <h4 class="title">Letest <span>News.</span></h4>
+                        </div> <!-- section title -->
                     </div>
                 </div> <!-- row -->
-            </div> <!-- contact info -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="contact-wrapper-form pt-115  wow fadeInUpBig" data-wow-duration="1s"
-                        data-wow-delay="0.5s">
-                        <h4 class="contact-title pb-10">
-                            <i class="fas fa-map-marker-check"></i>Our <span>Location</span></h4>
-                        <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d846.4991144738264!2d101.36674433733853!3d0.47636195334243303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d5a9ec78adfd0b%3A0x2f9b4bd074b43b0b!2sTeras%20Rumah%20Production%20House!5e0!3m2!1sid!2sid!4v1613802550359!5m2!1sid!2sid"
-                            width="100%" height="450" style="border:1px;" allowfullscreen="" loading="eager"></iframe>
-                    </div> <!-- contact wrapper form -->
+
+                {{--    Baris Pertama Team  --}}
+                <div class="row justify-content-center">
+                    <div class="col-lg-3 col-md-6 wow fadeInUp">
+                        <div class="member">
+                            <img src="{{asset('assets/images/team/magrina.jpg')}}" class="rounded-circle " alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Magrina Rahayu</h4>
+                                    <span>CEO Magsindo Kreasi Multimedia</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div> <!-- row -->
-        </div> <!-- container -->
-    </section>
 
-    <!--====== CONTACT PART ENDS ======-->
+                <div class="row justify-content-center">
 
-    <!--====== FOOTER PART START ======-->
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="member">
+                            <img src="{{asset('assets/images/team/heris.png')}}" class="rounded-circle " alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Heris Rizal</h4>
+                                    <span>Company Manager</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
-    <footer id="footer" class="footer-area bg_cover"
-        style="background-image: url({{asset('assets/images/footer-bg.jpg')}})">
-        <div class="container">
-            <div class="footer-widget pt-30 pb-70">
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="member">
+                            <img src="{{asset('assets/images/team/rizky.jpg')}}" class="rounded-circle " alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Rizky Yananda</h4>
+                                    <span>Chief Technology Officer</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="member">
+                            <img src="{{asset('assets/images/team/harish.jpg')}}" class="rounded-circle " alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Harish Ridha Prasaja</h4>
+                                    <span>System AnalysT</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                {{--    Baris Kedua Team    --}}
+                <div class="row justify-content-center">
+
+                    <div class="col-lg-3 col-md-6 wow fadeInUp">
+                        <div class="member">
+                            <img src="{{asset('assets/images/team/rizal.jpeg')}}" class="rounded-circle " alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>M. Rizal Rizwan</h4>
+                                    <span>Head Developer</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="member">
+                            <img src="{{asset('assets/images/team/filzha.jpg')}}" class="rounded-circle " alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Filzha Hidayat</h4>
+                                    <span>Graphic Designer</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="member">
+                            <img src="{{asset('assets/images/team/fadllil.png')}}" class="rounded-circle " alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Fadllil Azhiimi</h4>
+                                    <span>Developer</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- #team -->
+
+
+        <!--====== CONTACT PART START ======-->
+
+        <section id="contact" class="contact-area pt-120 pb-120">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-4">
+                        <div class="section-title text-center pb-20 wow fadeInUp" data-wow-duration="1s"
+                            data-wow-delay="0.3s">
+                            <h6 class="sub-title">Our Contact</h6>
+                            <h4 class="title">Get In <span>Touch.</span></h4>
+                        </div> <!-- section title -->
+                    </div>
+                </div> <!-- row -->
+                <div class="contact-info pt-30">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6">
+                            <div class="single-contact-info contact-color-1 mt-30 d-flex  wow fadeInUp"
+                                data-wow-duration="1s" data-wow-delay="0.3s">
+                                <div class="contact-info-icon">
+                                    <a href="https://www.google.com/maps/dir//0.4762841,101.3673225/@0.476284,101.367323,18z?hl=id"
+                                        target="_blank"><i class="lni-map-marker"></i></a>
+                                </div>
+                                <div class="contact-info-content media-body">
+                                    <p>Jl. Garuda Sakti Km.2 </p>
+                                </div>
+                            </div> <!-- single contact info -->
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="single-contact-info contact-color-2 mt-30 d-flex  wow fadeInUp"
+                                data-wow-duration="1s" data-wow-delay="0.6s">
+                                <div class="contact-info-icon">
+                                    <a href="mailto:magsindokreasimultimedia@gmail.com" target="_blank"><i
+                                            class="lni-envelope"></i></a>
+                                </div>
+                                <div class="contact-info-content media-body">
+                                    <p>Mail Me</p>
+                                </div>
+                            </div> <!-- single contact info -->
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="single-contact-info contact-color-3 mt-30 d-flex  wow fadeInUp"
+                                data-wow-duration="1s" data-wow-delay="0.9s">
+                                <div class="contact-info-icon">
+                                    <a href="tel:+62 853-6309-2565" target="_blank"><i class="lni-phone"></i></a>
+                                </div>
+                                <div class="contact-info-content media-body">
+                                    <p>Call Me</p>
+                                </div>
+                            </div> <!-- single contact info -->
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="single-contact-info contact-color-4 mt-30 d-flex  wow fadeInUp"
+                                data-wow-duration="1s" data-wow-delay="0.9s">
+                                <div class="contact-info-icon">
+                                    <a href="https://api.whatsapp.com/send?phone=6285363092565&text= Hallo PT. Magsindo"
+                                        target="_blank"><i class="lni-whatsapp"></i></a>
+                                </div>
+                                <div class="contact-info-content media-body">
+                                    <p>Whatsapp Me</p>
+                                </div>
+                            </div> <!-- single contact info -->
+                        </div>
+                    </div> <!-- row -->
+                </div> <!-- contact info -->
                 <div class="row">
-                    <div class="col-lg-3 col-sm-6 order-sm-1 order-lg-1">
-                        <div class="footer-about pt-40">
-                            <a href="#">
-                                <img src="{{asset('assets/images/logo.png')}}" alt="Logo">
-                            </a>
-                            <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus,
-                                repudiandae! Totam, nemo sed? Provident.</p>
-                            <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus</p>
-                        </div> <!-- footer about -->
+                    <div class="col-lg-12">
+                        <div class="contact-wrapper-form pt-115  wow fadeInUpBig" data-wow-duration="1s"
+                            data-wow-delay="0.5s">
+                            <h4 class="contact-title pb-10">
+                                <i class="fas fa-map-marker-check"></i>Our <span>Location</span></h4>
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d846.4991144738264!2d101.36674433733853!3d0.47636195334243303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d5a9ec78adfd0b%3A0x2f9b4bd074b43b0b!2sTeras%20Rumah%20Production%20House!5e0!3m2!1sid!2sid!4v1613802550359!5m2!1sid!2sid"
+                                width="100%" height="450" style="border:1px;" allowfullscreen=""
+                                loading="eager"></iframe>
+                        </div> <!-- contact wrapper form -->
                     </div>
-                    <div class="col-lg-3 col-sm-6 order-sm-3 order-lg-2">
-                        <div class="footer-link pt-40">
-                            <div class="footer-title">
-                                <h5 class="title">Services</h5>
-                            </div>
-                            <ul>
-                                <li><a href="#">Business Consultancy</a></li>
-                                <li><a href="#">Digital Marketing</a></li>
-                                <li><a href="#">Market Analysis</a></li>
-                                <li><a href="#">Web Development</a></li>
-                            </ul>
-                        </div> <!-- footer link -->
-                    </div>
-                    <div class="col-lg-3 col-sm-6 order-sm-4 order-lg-3">
-                        <div class="footer-link pt-40">
-                            <div class="footer-title">
-                                <h5 class="title">About Us</h5>
-                            </div>
-                            <ul>
-                                <li><a href="#">Overview</a></li>
-                                <li><a href="#">Why us</a></li>
-                                <li><a href="#">Awards & Recognitions</a></li>
-                                <li><a href="#">Team</a></li>
-                            </ul>
-                        </div> <!-- footer link -->
-                    </div>
-                    <div class="col-lg-3 col-sm-6 order-sm-2 order-lg-4">
-                        <div class="footer-contact pt-40">
-                            <div class="footer-title">
-                                <h5 class="title">Contact Info</h5>
-                            </div>
-                            <div class="contact pt-10">
-                                <p class="text">21 King Street, Melbourne <br>
-                                    Victoria, 1202 Australia.</p>
-                                <p class="text">support@uideck.com</p>
-                                <p class="text">+99 000 555 66 22</p>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </section>
 
-                                <ul class="social mt-40">
-                                    <li><a href="#"><i class="lni-facebook"></i></a></li>
-                                    <li><a href="#"><i class="lni-twitter"></i></a></li>
-                                    <li><a href="#"><i class="lni-instagram"></i></a></li>
-                                    <li><a href="#"><i class="lni-linkedin"></i></a></li>
+        <!--====== CONTACT PART ENDS ======-->
+
+        <!--====== FOOTER PART START ======-->
+
+        <footer id="footer" class="footer-area bg_cover"
+            style="background-image: url({{asset('assets/images/footer-bg.jpg')}})">
+            <div class="container">
+                <div class="footer-widget pt-30 pb-70">
+                    <div class="row">
+                        <div class="col-lg-3 col-sm-6 order-sm-1 order-lg-1">
+                            <div class="footer-about pt-40">
+                                <a href="#">
+                                    <img src="{{asset('assets/images/logo.png')}}" alt="Logo">
+                                </a>
+                                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Repellendus,
+                                    repudiandae! Totam, nemo sed? Provident.</p>
+                                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Repellendus</p>
+                            </div> <!-- footer about -->
+                        </div>
+                        <div class="col-lg-3 col-sm-6 order-sm-3 order-lg-2">
+                            <div class="footer-link pt-40">
+                                <div class="footer-title">
+                                    <h5 class="title">Services</h5>
+                                </div>
+                                <ul>
+                                    <li><a href="#">Business Consultancy</a></li>
+                                    <li><a href="#">Digital Marketing</a></li>
+                                    <li><a href="#">Market Analysis</a></li>
+                                    <li><a href="#">Web Development</a></li>
                                 </ul>
-                            </div> <!-- contact -->
-                        </div> <!-- footer contact -->
-                    </div>
-                </div> <!-- row -->
-            </div> <!-- footer widget -->
-            <div class="footer-copyright text-center">
-                <p class="text">© {{date('Y')}} Crafted by <a href="{{'/'}}" rel="nofollow">Magsindo</a></p>
-            </div>
-        </div> <!-- container -->
-    </footer>
+                            </div> <!-- footer link -->
+                        </div>
+                        <div class="col-lg-3 col-sm-6 order-sm-4 order-lg-3">
+                            <div class="footer-link pt-40">
+                                <div class="footer-title">
+                                    <h5 class="title">About Us</h5>
+                                </div>
+                                <ul>
+                                    <li><a href="#">Overview</a></li>
+                                    <li><a href="#">Why us</a></li>
+                                    <li><a href="#">Awards & Recognitions</a></li>
+                                    <li><a href="#">Team</a></li>
+                                </ul>
+                            </div> <!-- footer link -->
+                        </div>
+                        <div class="col-lg-3 col-sm-6 order-sm-2 order-lg-4">
+                            <div class="footer-contact pt-40">
+                                <div class="footer-title">
+                                    <h5 class="title">Contact Info</h5>
+                                </div>
+                                <div class="contact pt-10">
+                                    <p class="text">21 King Street, Melbourne <br>
+                                        Victoria, 1202 Australia.</p>
+                                    <p class="text">support@uideck.com</p>
+                                    <p class="text">+99 000 555 66 22</p>
 
-    <!--====== FOOTER PART ENDS ======-->
+                                    <ul class="social mt-40">
+                                        <li><a href="#"><i class="lni-facebook"></i></a></li>
+                                        <li><a href="#"><i class="lni-twitter"></i></a></li>
+                                        <li><a href="#"><i class="lni-instagram"></i></a></li>
+                                        <li><a href="#"><i class="lni-linkedin"></i></a></li>
+                                    </ul>
+                                </div> <!-- contact -->
+                            </div> <!-- footer contact -->
+                        </div>
+                    </div> <!-- row -->
+                </div> <!-- footer widget -->
+                <div class="footer-copyright text-center">
+                    <p class="text">© {{date('Y')}} Crafted by <a href="{{'/'}}" rel="nofollow">Magsindo</a></p>
+                </div>
+            </div> <!-- container -->
+        </footer>
 
-    <!--====== BACK TOP TOP PART START ======-->
+        <!--====== FOOTER PART ENDS ======-->
 
-    <a href="#" class="back-to-top"><i class="lni-chevron-up"></i></a>
+        <!--====== BACK TOP TOP PART START ======-->
 
-    <!--====== BACK TOP TOP PART ENDS ======-->
+        <a href="#" class="back-to-top"><i class="lni-chevron-up"></i></a>
+
+        <!--====== BACK TOP TOP PART ENDS ======-->

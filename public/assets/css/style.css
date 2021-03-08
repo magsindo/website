@@ -2294,13 +2294,17 @@ p {
 /*# sourceMappingURL=style.css.map */
 
 /* css partnership */
-.circular-image {
+.kontak{
+  text-align: center;
+}
+
+.partnership {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 100px;
   height: 100px;
   overflow: hidden;
   border-radius: 20%;
-}
-.kontak{
-  text-align: center;
 }
 
