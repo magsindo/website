@@ -216,14 +216,6 @@
                                 aria-labelledby="business-tab">
                                 <div class="row">
                                     <div class="col-lg-6">
-                                        <div class="our-services-image mt-50">
-                                            <iframe width="560" height="315" src="https://www.youtube.com/embed/fiuhu924--M" 
-                                            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-                                             gyroscope; picture-in-picture" allowfullscreen>
-                                            </iframe>
-                                        </div> <!-- our services image -->
-                                    </div>
-                                    <div class="col-lg-6">
                                         <div class="our-services-content mt-45">
                                             <h3 class="services-title">Pengembangan Aplikasi<span> untuk perkembangan
                                                     bisnis anda.</span></h3>
@@ -231,24 +223,29 @@
                                                 merupakan salah satu produk utama kami<br> <br> Dibuat oleh para ahli
                                                 dengan berbagai pengalaman yang siap untuk mewujudkan impian anda </p>
 
-                                            <div class="our-services-progress d-flex align-items-center mt-55">
+                                            {{-- <div class="our-services-progress d-flex align-items-center mt-55">
                                                 <div class="circle" id="circles-1"></div>
                                                 <div class="progress-content">
                                                     <h4 class="progress-title">Software<br> Developer Skill.</h4>
                                                 </div>
-                                            </div>
+                                            </div> --}}
                                         </div> <!-- our services content -->
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="our-services-image mt-50">
+                                            <li class="animated infinite bounce">Company Website</li>
+                                            <li class="animated infinite bounce">E-Campus Development</li>
+                                            <li class="animated infinite bounce">E-Goverment Development</li>
+                                            <li class="animated infinite bounce">E-Commerce Development</li>
+                                            <li class="animated infinite bounce">Networking Support</li>
+                                            <li class="animated infinite bounce">IT Training</li>
+                                        </div> <!-- our services image -->
                                     </div>
                                 </div> <!-- row -->
                             </div>
 
                             <div class="tab-pane fade" id="digital" role="tabpanel" aria-labelledby="digital-tab">
                                 <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="our-services-image mt-50">
-                                            <img src="{{asset('assets/images/our-service-1.jpg')}}" alt="service">
-                                        </div> <!-- our services image -->
-                                    </div>
                                     <div class="col-lg-6">
                                         <div class="our-services-content mt-45">
                                             <h3 class="services-title">Digital Marketing <span>for Your Business
@@ -259,13 +256,21 @@
                                                 ante. Cras sed consequat justo. Curabitur laoreet eu est vel convallis.
                                             </p>
 
-                                            <div class="our-services-progress d-flex align-items-center mt-55">
+                                            {{-- <div class="our-services-progress d-flex align-items-center mt-55">
                                                 <div class="circle" id="circles-2"></div>
                                                 <div class="progress-content">
                                                     <h4 class="progress-title">Digital Marketing <br> Skill.</h4>
                                                 </div>
-                                            </div>
+                                            </div> --}}
                                         </div> <!-- our services content -->
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="our-services-image mt-50">
+                                            <li>Advertisement Video</li>
+                                            <li>Company Profile Video</li>
+                                            <li>Documentary Video</li>
+                                            <li>Graphic Design</li>
+                                        </div> <!-- our services image -->
                                     </div>
                                 </div> <!-- row -->
                             </div>
