@@ -14,32 +14,32 @@
              <ul class="hs full no-scrollbar">
                  <div class="fadeInUp" style="width: 215px">
                      <div class="justify-content-center partnership">
-                         <img src="assets/images/partnership/DISHUBB.png" alt="">
+                         <img src="assets/images/partnership/DISHUBB.png" loading="lazy" alt="logo partner">
                      </div>
                  </div>
                  <div class="fadeInUp" style="width: 215px">
                      <div class="justify-content-center partnership">
-                         <img src="assets/images/partnership/BKSDAA.png" alt="">
+                         <img src="assets/images/partnership/BKSDAA.png" loading="lazy" alt="logo partner">
                      </div>
                  </div>
                  <div class="fadeInUp" style="width: 215px">
                      <div class="justify-content-center partnership">
-                         <img src="assets/images/partnership/KEMENKUMHAMM.png" alt="">
+                         <img src="assets/images/partnership/KEMENKUMHAMM.png" loading="lazy" alt="logo partner">
                      </div>
                  </div>
                  <div class="fadeInUp" style="width: 215px">
                      <div class="justify-content-center partnership">
-                         <img src="assets/images/partnership/KOENERGIAA.png" alt="">
+                         <img src="assets/images/partnership/KOENERGIAA.png" loading="lazy" alt="logo partner">
                      </div>
                  </div>
                  <div class="fadeInUp" style="width: 215px">
                      <div class="justify-content-center partnership">
-                         <img src="assets/images/partnership/SCALEUPP.png" alt="">
+                         <img src="assets/images/partnership/SCALEUPP.png" loading="lazy" alt="logo partner">
                      </div>
                  </div>
-                 <div class="fadeInUp" style="width: 215px"">
+                 <div class="fadeInUp" style="width: 215px">
                     <div class=" justify-content-center partnership">
-                     <img src="assets/images/partnership/TESSOO.png" alt="">
+                     <img src="assets/images/partnership/TESSOO.png" loading="lazy" alt="logo partner">
                  </div>
          </div>
          </ul>
