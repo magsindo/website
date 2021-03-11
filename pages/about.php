@@ -18,7 +18,7 @@
                     </div> <!-- about image -->
                 </div>
                 <div class="col-lg-6">
-                    <p class="text wow fadeInUp" style="color: black" data-wow-duration="1s" data-wow-delay="0.4s">
+                    <p class="text text-justify lead wow fadeInUp" style="color: black" data-wow-duration="1s" data-wow-delay="0.4s">
                         PT. Magsindo Kreasi Multimedia adalah perusahaan yang memusatkan diri dalam pengembangan
                         teknologi informasi khusus pemanfaatan trend IT dan Multimedia sebagai salah satu solusi
                         yang efektif dan efisien bagi perusahaan.
