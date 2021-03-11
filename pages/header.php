@@ -99,7 +99,7 @@
             <div class="header-hero-image d-flex align-items-center wow fadeInRightBig" data-wow-duration="1s"
                 data-wow-delay="1.1s">
                 <div class="image">
-                    <img src="assets/images/hero-image.jpg" alt="Hero Image">
+                    <img src="assets/images/hero-image.jpg" loading="lazy" alt="Hero Image">
                 </div>
             </div> <!-- header hero image -->
         </div> <!-- header hero -->

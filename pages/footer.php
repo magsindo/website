@@ -8,7 +8,7 @@
                         <div class="col-lg-3 col-sm-6 order-sm-1 order-lg-1">
                             <div class="footer-about pt-40">
                                 <a href="#">
-                                    <img src="assets/images/logo.png" alt="Logo">
+                                    <img src="assets/images/logo.png" loading="lazy" alt="Logo">
                                 </a>
                                 <p class="text">PT. Magsindo Kreasi Multimedia</p>
                                 <!-- <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.

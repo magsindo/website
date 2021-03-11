@@ -83,7 +83,8 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="our-services-image mt-50">
-                                            <iframe width="560" height="315" src="https://www.youtube.com/embed/V1wSFYEjqwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                            Under development
+                                            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/V1wSFYEjqwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
                                         </div> <!-- our services image -->
                                     </div>
                                 </div> <!-- row -->
