@@ -87,8 +87,8 @@
                         <div class="header-hero-content">
                             <h1 class="hero-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s"><b>Your</b>
                                 <span>Consultancy</span> Partner for <b>Growth.</b></h1>
-                            <p class="text wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">Phasellus vel elit
-                                efficitur, gravida libero sit amet, scelerisque tortor arcu, commodo sit amet nulla sed.
+                            <p class="text wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+                            Ingin membuat Website untuk perusahaan, Sistem Informasi, Aplikasi Mobile? Ingin membuat video promosi dan iklan? Lihat aja dulu!
                             </p>
                             <h4 class="mt-60"><b>Download Our Company Profile Here</b></h4>
                             <a class="main-btn mt-20" href="{{asset('assets/images/magsindo.pdf')}}" download
@@ -145,7 +145,7 @@
                                             <span class="shape-2"></span>
                                         </div>
                                         <div class="counter-content media-body">
-                                            <span class="counter-count"><span class="counter">350</span></span>
+                                            <span class="counter-count"><span class="counter">6</span></span>
                                             <p class="text">Clients</p>
                                         </div>
                                     </div> <!-- single counter -->
@@ -171,7 +171,7 @@
                                             <span class="shape-2"></span>
                                         </div>
                                         <div class="counter-content media-body">
-                                            <span class="counter-count"><span class="counter">870</span></span>
+                                            <span class="counter-count"><span class="counter">8</span></span>
                                             <p class="text">Projects</p>
                                         </div>
                                     </div> <!-- single counter -->
