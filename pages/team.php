@@ -17,7 +17,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3 col-md-6 col-xs-12 wow fadeInUp">
                         <div class="member">
-                            <img src="assets/images/team/magrina.jpg" class="rounded-circle" alt="">
+                            <img src="assets/images/team/magrina.jpg" loading="lazy" class="rounded-circle" alt="">
                             <div class="member-info rounded-circle">
                                 <div class="member-info-content">
                                     <h4>Magrina Rahayu</h4>
@@ -38,7 +38,7 @@
 
                     <div class="col-lg-3 col-md-6 col-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="member">
-                            <img src="assets/images/team/heris.jpeg" class="rounded-circle " alt="">
+                            <img src="assets/images/team/heris.jpeg" loading="lazy" class="rounded-circle " alt="">
                             <div class="member-info rounded-circle">
                                 <div class="member-info-content">
                                     <h4>Heris Rizal</h4>
@@ -56,7 +56,7 @@
 
                     <div class="col-lg-3 col-md-6 col-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="member">
-                            <img src="assets/images/team/rizky.jpg" class="rounded-circle " alt="">
+                            <img src="assets/images/team/rizky.jpg" loading="lazy" class="rounded-circle " alt="">
                             <div class="member-info rounded-circle">
                                 <div class="member-info-content">
                                     <h4>Rizky Yananda</h4>
@@ -74,7 +74,7 @@
 
                     <div class="col-lg-3 col-md-6 col-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="member">
-                            <img src="assets/images/team/harish.jpg" class="rounded-circle " alt="">
+                            <img src="assets/images/team/harish.jpg" loading="lazy" class="rounded-circle " alt="">
                             <div class="member-info rounded-circle">
                                 <div class="member-info-content">
                                     <h4>Harish Ridha Prasaja</h4>
@@ -96,7 +96,7 @@
 
                     <div class="col-lg-3 col-md-6 col-6 wow fadeInUp">
                         <div class="member">
-                            <img src="assets/images/team/rizal.jpeg" class="rounded-circle " alt="">
+                            <img src="assets/images/team/rizal.jpeg" loading="lazy" class="rounded-circle " alt="">
                             <div class="member-info rounded-circle">
                                 <div class="member-info-content">
                                     <h4>M. Rizal Rizwan</h4>
@@ -114,7 +114,7 @@
 
                     <div class="col-lg-3 col-md-6 col-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="member">
-                            <img src="assets/images/team/filzha.jpg" class="rounded-circle " alt="">
+                            <img src="assets/images/team/filzha.jpg" loading="lazy" class="rounded-circle " alt="">
                             <div class="member-info rounded-circle">
                                 <div class="member-info-content">
                                     <h4>Filzha Hidayat</h4>
@@ -132,7 +132,7 @@
 
                     <div class="col-lg-3 col-md-6 col-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="member">
-                            <img src="assets/images/team/fadllil.png" class="rounded-circle" alt="">
+                            <img src="assets/images/team/fadllil.png" loading="lazy" class="rounded-circle" alt="">
                             <div class="member-info rounded-circle">
                                 <div class="member-info-content">
                                     <h4>Fadllil Azhiimi</h4>
