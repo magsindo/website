@@ -23,6 +23,11 @@
                         teknologi informasi khusus pemanfaatan trend IT dan Multimedia sebagai salah satu solusi
                         yang efektif dan efisien bagi perusahaan.
                     </p>
+                    <p class="text text-justify lead wow fadeInUp" style="color: black" data-wow-duration="1s" data-wow-delay="0.4s">
+                        PT. Magsindo Kreasi Multimedia adalah perusahaan yang memusatkan diri dalam pengembangan
+                        teknologi informasi khusus pemanfaatan trend IT dan Multimedia sebagai salah satu solusi
+                        yang efektif dan efisien bagi perusahaan.
+                    </p>
                 </div>
             </div> <!-- row -->
             <div class="row justify-content-center">
