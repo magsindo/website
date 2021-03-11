@@ -32,7 +32,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg">
-                            <a class="navbar-brand" href="index.html">
+                            <a class="navbar-brand" href="/">
                                 <h2 style="color: #06857e">Mags<span style="color: #e9b20f">indo</span></h2>
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse"
