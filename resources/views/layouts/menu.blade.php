@@ -113,9 +113,14 @@
     <section id="about" class="about-area pt-115">
         <div class="container">
             <div class="row justify-content-center">
+                <div class="col-lg-12 text-center pb-5">
+                    <h6 class="sub-title">About Us</h6>
+                    <h4 class="title">Tentang PT. Magsindo Kreasi Multimedia</h4>
+                </div>
                 <div class="col-lg-5">
                     <div class="about-image mt-60 wow fadeIn" style="margin-top: 1px" data-wow-duration="1s"
                         data-wow-delay="0.5s">
+                        
                         <img src="{{asset('assets/images/perusahaan/Logo Bawah.png')}}" alt="about">
                     </div> <!-- about image -->
                 </div>
@@ -292,8 +297,8 @@
                     <div class="col-xl-5 col-lg-6 col-md-8 col-sm-9">
                         <div class="section-title text-center wow fadeInUp" data-wow-duration="1s"
                             data-wow-delay="0.2s">
-                            <h6 class="sub-title">Our Partnership</h6>
-                            <h4 class="title">Partnertship <span>Magsindo</span></h4>
+                            <h6 class="sub-title">Partnership</h6>
+                            <h4 class="title">Partners <span>Magsindo</span></h4>
                         </div> <!-- section title -->
                     </div>
                 </div>
@@ -346,7 +351,7 @@
                         <div class="section-title text-center pb-20 wow fadeInUp" data-wow-duration="1s"
                             data-wow-delay="0.3s">
                             <h6 class="sub-title">Our Team</h6>
-                            <h4 class="title">Letest <span>News.</span></h4>
+                            <h4 class="title">Tim <span>Magsindo Kreasi Multimedia</span></h4>
                         </div> <!-- section title -->
                     </div>
                 </div> <!-- row -->
@@ -416,7 +421,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Harish Ridha Prasaja</h4>
-                                    <span>System AnalysT</span>
+                                    <span>System Analyst</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
@@ -527,7 +532,7 @@
                                             class="lni-envelope"></i></a>
                                 </div>
                                 <div class="contact-info-content media-body">
-                                    <p>Mail Me</p>
+                                    <p>Mail Us</p>
                                 </div>
                             </div> <!-- single contact info -->
                         </div>
@@ -538,7 +543,7 @@
                                     <a href="tel:+62 853-6309-2565" target="_blank"><i class="lni-phone"></i></a>
                                 </div>
                                 <div class="contact-info-content media-body">
-                                    <p>Call Me</p>
+                                    <p>Call Us</p>
                                 </div>
                             </div> <!-- single contact info -->
                         </div>
@@ -550,7 +555,7 @@
                                         target="_blank"><i class="lni-whatsapp"></i></a>
                                 </div>
                                 <div class="contact-info-content media-body">
-                                    <p>Whatsapp Me</p>
+                                    <p>Whatsapp Us</p>
                                 </div>
                             </div> <!-- single contact info -->
                         </div>
@@ -586,11 +591,9 @@
                                 <a href="#">
                                     <img src="{{asset('assets/images/logo.png')}}" alt="Logo">
                                 </a>
-                                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Repellendus,
-                                    repudiandae! Totam, nemo sed? Provident.</p>
-                                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Repellendus</p>
+                                <p class="text">PT. Magsindo Kreasi Multimedia</p>
+                                {{-- <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Repellendus</p> --}}
                             </div> <!-- footer about -->
                         </div>
                         <div class="col-lg-3 col-sm-6 order-sm-3 order-lg-2">
@@ -625,10 +628,9 @@
                                     <h5 class="title">Contact Info</h5>
                                 </div>
                                 <div class="contact pt-10">
-                                    <p class="text">21 King Street, Melbourne <br>
-                                        Victoria, 1202 Australia.</p>
-                                    <p class="text">support@uideck.com</p>
-                                    <p class="text">+99 000 555 66 22</p>
+                                    <p class="text">Jl. Garuda Sakti KM. 2 Kota Pekanbaru</p>
+                                    <p class="text">support@magsindo.com</p>
+                                    <p class="text">+62853 6309 2565</p>
 
                                     <ul class="social mt-40">
                                         <li><a href="#"><i class="lni-facebook"></i></a></li>
