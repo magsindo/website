@@ -21,10 +21,9 @@
                                     <h5 class="title">Services</h5>
                                 </div>
                                 <ul>
-                                    <li><a href="#">Business Consultancy</a></li>
-                                    <li><a href="#">Digital Marketing</a></li>
-                                    <li><a href="#">Market Analysis</a></li>
-                                    <li><a href="#">Web Development</a></li>
+                                    <li><a href="#services">Software Development</a></li>
+                                    <li><a href="#services">Digital Marketing</a></li>
+                                    <li><a href="#services">Multimedia</a></li>
                                 </ul>
                             </div> <!-- footer link -->
                         </div>
@@ -34,10 +33,10 @@
                                     <h5 class="title">About Us</h5>
                                 </div>
                                 <ul>
-                                    <li><a href="#">Overview</a></li>
-                                    <li><a href="#">Why us</a></li>
-                                    <li><a href="#">Awards & Recognitions</a></li>
-                                    <li><a href="#">Team</a></li>
+                                    <li><a href="#about">Overview</a></li>
+                                    <li><a href="#services">Why us</a></li>
+                                    <li><a href="#brand">Our Partner</a></li>
+                                    <li><a href="#team">Team</a></li>
                                 </ul>
                             </div> <!-- footer link -->
                         </div>
@@ -52,10 +51,8 @@
                                     <p class="text">+62853 6309 2565</p>
 
                                     <ul class="social mt-40">
-                                        <li><a href="#"><i class="lni-facebook"></i></a></li>
-                                        <li><a href="#"><i class="lni-twitter"></i></a></li>
-                                        <li><a href="#"><i class="lni-instagram"></i></a></li>
-                                        <li><a href="#"><i class="lni-linkedin"></i></a></li>
+                                        <li><a href="https://api.whatsapp.com/send?phone=6285363092565&text= Hallo PT. Magsindo"><i class="lni-whatsapp"></i></a></li>
+                                        <li><a href="https://instagram.com/magsindocom"><i class="lni-instagram"></i></a></li>
                                     </ul>
                                 </div> <!-- contact -->
                             </div> <!-- footer contact -->
