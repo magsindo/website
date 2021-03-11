@@ -38,7 +38,7 @@
 
                     <div class="col-lg-3 col-md-6 col-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="member">
-                            <img src="assets/images/team/heris.png" class="rounded-circle " alt="">
+                            <img src="assets/images/team/heris.jpeg" class="rounded-circle " alt="">
                             <div class="member-info rounded-circle">
                                 <div class="member-info-content">
                                     <h4>Heris Rizal</h4>
