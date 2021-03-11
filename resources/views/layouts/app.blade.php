@@ -5,9 +5,9 @@
     <meta charset="utf-8">
 
     <!--====== Title ======-->
-    <title>PT. Magsindo Kreasi Multimedia</title>
+    <title>PT. Magsindo Kreasi Multimedia | Website, Sistem Informasi dan Aplikasi Mobile</title>
     
-    <meta name="description" content="">
+    <meta name="description" content="Jasa pembuatan website sistem informasi dan aplikasi mobile Pekanbaru Riau">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--====== Favicon Icon ======-->
