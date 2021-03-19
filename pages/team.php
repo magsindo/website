@@ -155,7 +155,7 @@
                      <div class="member-info rounded-circle">
                          <div class="member-info-content">
                              <h4>Vina Azizah</h4>
-                             <span>Marketing & Admin</span>
+                             <span>Admin</span>
                              <div class="social">
                                  <a href=""><i class="fa fa-twitter"></i></a>
                                  <a href=""><i class="fa fa-facebook"></i></a>
