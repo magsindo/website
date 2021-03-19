@@ -37,25 +37,19 @@
                                             <h3 class="services-title">Pengembangan Aplikasi<span> untuk perkembangan
                                                     bisnis anda.</span></h3>
                                             <p class="text">Pembuatan aplikasi (berbasis web dan mobile (android/iOS))
-                                                merupakan salah satu produk utama kami<br> <br> Dibuat oleh para ahli
-                                                dengan berbagai pengalaman yang siap untuk mewujudkan impian anda </p>
-
-                                            <!-- <div class="our-services-progress d-flex align-items-center mt-55">
-                                                <div class="circle" id="circles-1"></div>
-                                                <div class="progress-content">
-                                                    <h4 class="progress-title">Software<br> Developer Skill.</h4>
-                                                </div>
-                                            </div> -->
+                                                merupakan salah satu produk utama kami<br>Dibuat oleh para ahli
+                                                dengan berbagai pengalaman yang siap untuk mewujudkan impian anda. Pengembangan aplikasi yang bisa PT. Magsindo Berikan: </p>
+                                            <li>Company Website</li>
+                                            <li>E-Campus Development</li>
+                                            <li>E-Goverment Development</li>
+                                            <li>E-Commerce Development</li>
+                                            <li>Networking Support</li>
+                                            <li>IT Training</li>
                                         </div> <!-- our services content -->
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="our-services-image mt-50">
-                                            <li class="animated infinite bounce">Company Website</li>
-                                            <li class="animated infinite bounce">E-Campus Development</li>
-                                            <li class="animated infinite bounce">E-Goverment Development</li>
-                                            <li class="animated infinite bounce">E-Commerce Development</li>
-                                            <li class="animated infinite bounce">Networking Support</li>
-                                            <li class="animated infinite bounce">IT Training</li>
+                                        <img src="assets/images/service/it.jpeg" loading="lazy" alt="">
                                         </div> <!-- our services image -->
                                     </div>
                                 </div> <!-- row -->
