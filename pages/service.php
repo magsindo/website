@@ -34,7 +34,7 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="our-services-content mt-45">
-                                        <h3 class="services-title">Pengembangan Aplikasi<span> untuk perkembangan
+                                        <h3 class="services-title">Pembuatan Aplikasi<span> untuk perkembangan
                                                 bisnis anda.</span></h3>
                                         <p class="text">Pembuatan aplikasi (berbasis web dan mobile (android/iOS))
                                             merupakan salah satu produk utama kami. Dibuat oleh para ahli
@@ -63,7 +63,7 @@
                                         <h3 class="services-title">Digital Marketing <span>for Your Business
                                                 Growth.</span></h3>
                                         <p class="text">
-                                            Multimedia menyediakan banyak cara agar orang bisa mendapatkan informasi dengan mudah dan baik. Multimedia ini bisa dimanfaatkan pada dunia bisnis, pendidikan dan lainnya. Berikut Layanan Multimedia PT. Magsindo Berikan Untuk anda:  
+                                            Multimedia menyediakan banyak cara agar orang bisa mendapatkan informasi dengan mudah dan baik. Multimedia ini bisa dimanfaatkan pada dunia bisnis, pendidikan dan lainnya. Berikut Layanan Multimedia PT. Magsindo Kreasi Multimedia Untuk anda:  
                                         </p>
                                         <li>Advertisement Video</li>
                                         <li>Company Profile Video</li>
