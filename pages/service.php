@@ -36,7 +36,7 @@
                                     <div class="our-services-content mt-45">
                                         <h3 class="services-title">Pembuatan Aplikasi<span> untuk perkembangan
                                                 bisnis anda.</span></h3>
-                                        <p class="text">Pembuatan aplikasi (berbasis web dan mobile (android/iOS))
+                                        <p class="text">Pembuatan aplikasi (berbasis web dan mobile (android/iOS)) dan Sistem Informasi
                                             merupakan salah satu produk utama kami. Dibuat oleh para ahli
                                             dengan berbagai pengalaman yang siap untuk mewujudkan impian anda.
                                             Pengembangan aplikasi yang bisa PT. Magsindo Berikan: </p>
