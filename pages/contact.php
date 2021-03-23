@@ -29,7 +29,7 @@
                             <div class="single-contact-info contact-color-2 mt-30 d-flex  wow fadeInUp"
                                 data-wow-duration="1s" data-wow-delay="0.6s">
                                 <div class="contact-info-icon">
-                                    <a href="mailto:magsindokreasimultimedia@gmail.com" target="_blank"><i
+                                    <a href="mailto:contact@magsindo.com" target="_blank"><i
                                             class="lni-envelope"></i></a>
                                 </div>
                                 <div class="contact-info-content media-body">

@@ -47,7 +47,7 @@
                                 </div>
                                 <div class="contact pt-10">
                                     <p class="text">Jl. Garuda Sakti KM. 2 Kota Pekanbaru</p>
-                                    <p class="text">support@magsindo.com</p>
+                                    <a href="mailto:contact@magsindo.com" target="_blank"><p class="text">contact@magsindo.com</p></a>
                                     <p class="text">+62853 6309 2565</p>
 
                                     <ul class="social mt-40">
