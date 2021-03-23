@@ -48,7 +48,7 @@
                                 <div class="contact pt-10">
                                     <p class="text">Jl. Garuda Sakti KM. 2 Kota Pekanbaru</p>
                                     <a href="mailto:contact@magsindo.com" target="_blank"><p class="text">contact@magsindo.com</p></a>
-                                    <p class="text">+62853 6309 2565</p>
+                                    <a href="https://api.whatsapp.com/send?phone=6285363092565&text= Hallo PT. Magsindo"><p class="text">+62853 6309 2565</p></a>
 
                                     <ul class="social mt-40">
                                         <li><a href="https://api.whatsapp.com/send?phone=6285363092565&text= Hallo PT. Magsindo"><i class="lni-whatsapp"></i></a></li>
