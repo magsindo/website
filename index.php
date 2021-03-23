@@ -42,11 +42,11 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-W55GGN5K62"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-    gtag('config', 'G-W55GGN5K62');
+        gtag('config', 'G-W55GGN5K62');
     </script>
 
 </head>
@@ -61,65 +61,62 @@
     include "pages/footer.php";
     ?>
 
-<!--====== Jquery js ======-->
-<script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
-<script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
+    <!--====== Jquery js ======-->
+    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
 
-<!--====== Bootstrap js ======-->
-<script src="assets/js/popper.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
+    <!--====== Bootstrap js ======-->
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
 
-<!--====== Slick js ======-->
-<script src="assets/js/slick.min.js"></script>
+    <!--====== Slick js ======-->
+    <script src="assets/js/slick.min.js"></script>
 
-<!--====== Isotope js ======-->
-<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-<script src="assets/js/isotope.pkgd.min.js"></script>
+    <!--====== Isotope js ======-->
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
 
-<!--====== Counter Up js ======-->
-<script src="assets/js/waypoints.min.js"></script>
-<script src="assets/js/jquery.counterup.min.js"></script>
+    <!--====== Counter Up js ======-->
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
 
-<!--====== Circles js ======-->
-<script src="assets/js/circles.min.js"></script>
+    <!--====== Circles js ======-->
+    <script src="assets/js/circles.min.js"></script>
 
-<!--====== Appear js ======-->
-<script src="assets/js/jquery.appear.min.js"></script>
+    <!--====== Appear js ======-->
+    <script src="assets/js/jquery.appear.min.js"></script>
 
-<!--====== WOW js ======-->
-<script src="assets/js/wow.min.js"></script>
+    <!--====== WOW js ======-->
+    <script src="assets/js/wow.min.js"></script>
 
-<!--====== Headroom js ======-->
-<script src="assets/js/headroom.min.js"></script>
+    <!--====== Headroom js ======-->
+    <script src="assets/js/headroom.min.js"></script>
 
-<!--====== Jquery Nav js ======-->
-<script src="assets/js/jquery.nav.js"></script>
+    <!--====== Jquery Nav js ======-->
+    <script src="assets/js/jquery.nav.js"></script>
 
-<!--====== Scroll It js ======-->
-<script src="assets/js/scrollIt.min.js"></script>
+    <!--====== Scroll It js ======-->
+    <script src="assets/js/scrollIt.min.js"></script>
 
-<!--====== Magnific Popup js ======-->
-<script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!--====== Magnific Popup js ======-->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
 
-<!--====== Main js ======-->
-<script src="assets/js/main.js"></script>
+    <!--====== Main js ======-->
+    <script src="assets/js/main.js"></script>
 
-<script src="https://use.fontawesome.com/cd5f725593.js"></script>
+    <script src="https://use.fontawesome.com/cd5f725593.js"></script>
 
-</body>
-<!--Start of Tawk.to Script-->
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-    (function(){
-    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-    s1.async=true;
-    s1.src='https://embed.tawk.to/603cf202385de407571b412d/1evn12moe';
-    s1.charset='UTF-8';
-    s1.setAttribute('crossorigin','*');
-    s0.parentNode.insertBefore(s1,s0);
-    })();
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/603cf202385de407571b412d/1evn12moe';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
     </script>
-    <!--End of Tawk.to Script-->
-
+    </body>
 </html>
