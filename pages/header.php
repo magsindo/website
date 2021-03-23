@@ -66,6 +66,9 @@
                                     <li class="nav-item">
                                         <a href="#contact">Contact</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="https://magsindo.com/articles/manfaat-company-website-untuk-bisnis.html">Artikel</a>
+                                    </li>
                                 </ul>
                             </div> <!-- navbar collapse -->
 
