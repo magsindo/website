@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://magsindo.com/</loc>
+  <lastmod>2021-03-23T14:42:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://magsindo.com/assets/images/magsindo.pdf</loc>
+  <lastmod>2021-03-11T14:37:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://magsindo.com/articles/manfaat-company-website-untuk-bisnis.html</loc>
+  <lastmod>2021-03-23T14:37:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
